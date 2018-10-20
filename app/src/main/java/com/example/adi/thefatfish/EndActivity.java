@@ -17,6 +17,7 @@ public class EndActivity extends AppCompatActivity {
     private int score, highScore;
     private String Score;
     private String HighSocre;
+    private String New;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
